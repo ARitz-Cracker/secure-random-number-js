@@ -1,0 +1,22 @@
+{
+	"author": {
+		"name": "Aritz Beobide-Cardinal",
+		"email": "aritz@aritzcracker.ca"
+	},
+	"bugs": {
+		"url": "https://github.com/ARitz-Cracker/secure-random-number/issues"
+	},
+	"dependencies": {},
+	"description": "Create random floats, securely and with lots of entropy",
+	"devDependencies": {},
+	"homepage": "https://github.com/ARitz-Cracker/secure-random-number",
+	"license": "MIT",
+	"main": "index.js",
+	"name": "secure-random-number",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ARitz-Cracker/secure-random-number.git"
+	},
+	"scripts": {},
+	"version": "1.0.0"
+}
